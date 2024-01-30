@@ -16,7 +16,7 @@ This project leverages machine learning to predict loan approval based on histor
 1. Clone the repository:
 
    ```
-   git clone https://github.com/hemanth.nutakki/Loan_eligibility_prediction.git
+   git clone https://github.com/hemanthnutakki/Loan_eligibility_prediction.git
    ```
 2. Navigate to the project directory:
 
